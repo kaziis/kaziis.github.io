@@ -23,6 +23,8 @@
 
 Build a deep learning model using [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset) and use frameworks such as Tensorflow and Scikit-learn to develop a model with ~97% accuracy.
 
+---
+
 ### Movie Recommender System
 [Netflix Movie Recommender System](https://github.com/kaziis/movie-recommender-system/blob/main/notebook/V1_MRS.ipynb)
 
