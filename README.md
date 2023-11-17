@@ -1,13 +1,13 @@
-# Welcome
+# About Me
+
+#### Technical Skills: Python, SQL, C++
 
 ## Education
-**Baruch College (_May 2024_)**
-- Statistics and Quantitative Modeling
-- Computer Science
+**BBA, SQM | Baruch College (_May 2024_)**
 
 ## Work Experience
 
-**Fiverr (_June 2023 - Present_)**
+**Freelancer (_June 2023 - Present_)**
 - Communicate with clients to provide solutions to their business needs, acquire data, and update clients throughout the project timeline.
 
 **YouGov (_Sept 2022 - Dec 2022_)**
@@ -17,4 +17,8 @@
 - Managed several campaigns for Novartis and updated the team regarding budget, campaign performance, and progress toward goals.
 
 ## Project Portfolio
-Soon to be added
+
+### Movie Recommender System
+[Netflix Movie Recommender System](https://github.com/kaziis/movie-recommender-system/blob/main/notebook/V1_MRS.ipynb)
+
+Replicated the Netflix recommender system by using the [TMDB 5000 movie dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) and utilized libraries in __Python__, for example, NLTK and Scikit-learn. As a group, we were given the freedom to set thresholds and improve results based on popularity ratings and data analysis on certain columns. 
