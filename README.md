@@ -1,15 +1,8 @@
-``` C++
-#include <iostream>
-
-int main()
-{
-  std::cout << "Hello World!; 
-)
-
-```
+# Welcome
 
 ## Education
-- Statistics and Quantitative Modeling, Computer Science | Baruch College (_May 2024_)
+- Statistics and Quantitative Modeling | Baruch College (_May 2024_)
+- Computer Science
 
 ## Work Experience
 
