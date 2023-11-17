@@ -27,7 +27,10 @@ Build a deep learning model using [The Quick, Draw! Dataset](https://github.com/
 [Netflix Movie Recommender System](https://github.com/kaziis/movie-recommender-system/blob/main/notebook/V1_MRS.ipynb)
 
 Replicated the Netflix recommender system by using the [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) and utilized libraries in __Python__, for example, NLTK and Scikit-learn. As a group, we were given the freedom to set thresholds and improve results based on popularity ratings and data analysis on certain columns. 
+
+
 ![Netflix](assets/imgs/netflix.png)
+
 
 ## Extracurricular Activities
 
