@@ -1,7 +1,8 @@
 # Welcome
 
 ## Education
-- Statistics and Quantitative Modeling | Baruch College (_May 2024_)
+**Baruch College (_May 2024_)**
+- Statistics and Quantitative Modeling
 - Computer Science
 
 ## Work Experience
