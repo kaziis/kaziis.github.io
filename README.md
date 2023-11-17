@@ -1,10 +1,8 @@
 # Education
 
-Baruch College, City University of New York (CUNY)
+## Baruch College, City University of New York (CUNY)
 
-Major: Statistics & Quantitative Modeling
-
-Minor: Computer Science
+Majored in Statistics and Quantitative Modeling (SQM) and minored in Computer Science.
 
 ---
 # Work Experience
