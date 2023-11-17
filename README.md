@@ -2,9 +2,9 @@
 
 Baruch College, City University of New York (CUNY)
 
-*Major*: Statistics & Quantitative Modeling
+Major: Statistics & Quantitative Modeling
 
-*Minor*: Computer Science
+Minor: Computer Science
 
 ---
 # Work Experience
