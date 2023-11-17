@@ -1,24 +1,26 @@
-# Education
+``` C++
+#include <iostream>
 
-## Baruch College
+int main()
+{
+  std::cout << "Hello World!; 
+)
 
-Majored in Statistics and Quantitative Modeling (SQM) and minored in Computer Science.
+```
 
----
-# Work Experience
+## Education
+- Statistics and Quantitative Modeling, Computer Science | Baruch College (_May 2024_)
 
-## Fiverr
+## Work Experience
 
-Communicate with clients to provide solutions to their business needs, acquire data, and update clients throughout the project timeline.
+**Fiverr (_June 2023 - Present_)**
+- Communicate with clients to provide solutions to their business needs, acquire data, and update clients throughout the project timeline.
 
-## YouGov
+**YouGov (_Sept 2022 - Dec 2022_)**
+- Produced client reports and analyzed survey data using YouGovs' products and services to understand any statistical significance seen in the data.
 
-Produced client reports and analyzed survey data using YouGovs' products and services to understand any statistical significance seen in the data.
+**Starcom (_June 2022 - Aug 2022_)**
+- Managed several campaigns for Novartis and updated the team regarding budget, campaign performance, and progress toward goals.
 
-## Starcom
-
-Managed several campaigns for Novartis and updated the team regarding budget, campaign performance, and progress toward goals.
-
-# Project Portfolio
-
+## Project Portfolio
 Soon to be added
