@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, C++
 
 ## Education
-**BBA, SQM | Baruch College (_May 2024_)**
+**SQM | Baruch College (_May 2024_)**
 
 ## Work Experience
 
@@ -31,6 +31,6 @@ Replicated the Netflix recommender system by using the [TMDB 5000 Movie Dataset]
 
 ## Extracurricular Activities
 
-**CUNY Tech Prep (_Present_)**
+CUNY Tech Prep (_Present_)
 
-**Machine Learning & Data Science Club (_Present_)**
+Machine Learning & Data Science Club (_Present_)
