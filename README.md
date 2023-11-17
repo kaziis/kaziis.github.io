@@ -1,4 +1,4 @@
-# About Me
+# Kazi's Portfolio
 
 #### Technical Skills: Python, SQL, C++
 
