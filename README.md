@@ -19,8 +19,6 @@
 ## Project Portfolio
 
 ### CNN Neural Network
-[Convolutional Neural Network](https://colab.research.google.com/drive/1wuB79hI9Xfpf9VEfa8C7XK1zfqPr2q5O)
-
 Build a deep learning model using [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset) and use frameworks such as Tensorflow and Scikit-learn to develop a model with ~97% accuracy.
 
 ---
